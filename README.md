@@ -1,2 +1,2 @@
-# documentations
-some how to's and whatnot
+# snippets
+some how to's and small code snippets
