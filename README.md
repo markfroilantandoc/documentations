@@ -7,7 +7,7 @@ Some how to's and small code snippets
 
 + Probabilistic Randomization
 
-  Randomize an element when each element has different chances of being chosen.
+  Randomize an element where each element has different chances of being chosen.
 
 +  Similarity Join
 
